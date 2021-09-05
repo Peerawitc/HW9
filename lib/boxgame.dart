@@ -30,7 +30,7 @@ class _GAMEBOXState extends State<GAMEBOX> {
     setState(() {
       if (team == true) {
         scoreteam1 = 10;
-        scoreteam2 = 9;
+        scoreteam2 = 10;
         round++;
         count1 += scoreteam1;
         count2 += scoreteam2;
