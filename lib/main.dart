@@ -1,7 +1,7 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:new15/boxgame.dart';
+import 'package:new15/fontthai.dart';
 
 
 
@@ -33,7 +33,7 @@ class MyApp extends StatelessWidget {
 
         primarySwatch: Colors.deepPurple,
       ),
-      home: GAMEBOX(),
+      home: fontthai(),
     );
   }
 }
