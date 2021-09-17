@@ -3,6 +3,8 @@ import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:new15/fontthai.dart';
 
+import 'pages/GAME_PAGE.dart';
+
 
 
 
@@ -33,7 +35,7 @@ class MyApp extends StatelessWidget {
 
         primarySwatch: Colors.deepPurple,
       ),
-      home: fontthai(),
+      home: gamePage(),
     );
   }
 }
