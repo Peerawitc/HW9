@@ -2,8 +2,9 @@ import 'dart:math';
 
 import 'package:flutter/material.dart';
 import 'package:new15/fontthai.dart';
+import 'package:new15/pages/game/GAME_PAGE.dart';
 
-import 'pages/GAME_PAGE.dart';
+
 
 
 
